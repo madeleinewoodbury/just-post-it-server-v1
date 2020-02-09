@@ -5,11 +5,13 @@ const colors = require('colors');
 // Load env vars
 dotenv.config({ path: './config/config.env' });
 
+// Load routes
+const users = require('./routes/users');
+
 const app = express();
 
-app.get('/', (req, res) => {
-  res.send('Hello');
-});
+// Mount routers
+app.use('/api/v1/users', users);
 
 const PORT = process.env.PORT;
 const server = app.listen(PORT, () => {
