@@ -10,7 +10,7 @@ exports.getPosts = async (req, res, next) => {
     if (!posts) {
       return res.status(400).json({ success: false });
     }
-    res.status(200).json({ success: true, data: posts });
+    res.status(200).json({ success: true, count: posts.length, data: posts });
   } catch (err) {
     res.status(400).json({ success: false });
   }
@@ -48,13 +48,36 @@ exports.createPost = async (req, res, next) => {
 // @desc    Update post
 // @route   PUT /api/v1/posts/:id
 // @access  Private
-exports.updatePost = (req, res, next) => {
-  res.status(200).json({ success: true, msg: 'Update post' });
+exports.updatePost = async (req, res, next) => {
+  try {
+    const post = await Post.findByIdAndUpdate(req.params.id, req.body, {
+      new: true,
+      runValidators: true
+    });
+
+    if (!post) {
+      return res.status(400).json({ success: false });
+    }
+
+    res.status(201).json({ success: true, data: post });
+  } catch (err) {
+    res.status(400).json({ success: false });
+  }
 };
 
 // @desc    Delete post
 // @route   DELETE /api/v1/posts/:id
 // @access  Private
-exports.deletePost = (req, res, next) => {
-  res.status(200).json({ success: true, msg: 'Delete post' });
+exports.deletePost = async (req, res, next) => {
+  try {
+    const post = await Post.findByIdAndDelete(req.params.id);
+
+    if (!post) {
+      return res.status(400).json({ success: false });
+    }
+
+    res.status(201).json({ success: true, data: {} });
+  } catch (err) {
+    res.status(400).json({ success: false });
+  }
 };
