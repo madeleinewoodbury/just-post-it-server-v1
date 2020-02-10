@@ -15,11 +15,18 @@ const PostSchema = new mongoose.Schema({
     type: String,
     required: true,
     enum: [
-      'Web Development',
-      'Mobile Development',
-      'UI/UX',
-      'Data Science',
+      'Science & Technology',
+      'Food',
+      'Politics',
+      'Entertainment',
       'Business',
+      'Travel',
+      'History',
+      'Nature & Wildlife',
+      'Family',
+      'Fiction',
+      'Personal Development',
+      'Health & Wellness',
       'Other'
     ]
   },

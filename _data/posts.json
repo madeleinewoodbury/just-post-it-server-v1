@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "5d7a514b5d2c12c7449be020",
+    "title": "Learned a ton!",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+    "category": "Science & Technology",
+    "author": "John Doe",
+    "user": "5d7a514b5d2c12c7449be045"
+  },
+  {
+    "_id": "5d7a514b5d2c12c7449be020",
+    "title": "Everything is AWESOME",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+    "category": "Personal Development",
+    "author": "Kevin Smith",
+    "user": "5d7a514b5d2c12c7449be046"
+  },
+  {
+    "_id": "5d7a514b5d2c12c7449be020",
+    "title": "Mind over matter",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+    "category": "Personal Development",
+    "author": "Kevin Smith",
+    "user": "5d7a514b5d2c12c7449be046"
+  },
+  {
+    "_id": "5d7a514b5d2c12c7449be020",
+    "title": "Find yourself within",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+    "category": "Personal Development",
+    "author": "Mary Williams",
+    "user": "5c8a1d5b0190b214360dc031"
+  },
+  {
+    "_id": "5d7a514b5d2c12c7449be020",
+    "title": "Travel in style",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+    "category": "Travel",
+    "author": "Mary Williams",
+    "user": "5c8a1d5b0190b214360dc031"
+  },
+  {
+    "_id": "5d7a514b5d2c12c7449be020",
+    "title": "Love your parents",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+    "category": "Family",
+    "author": "Mary Williams",
+    "user": "5c8a1d5b0190b214360dc031"
+  },
+  {
+    "_id": "5d7a514b5d2c12c7449be020",
+    "title": "The Quantum Leap",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+    "category": "Science & Technology",
+    "author": "Sasha Ryan",
+    "user": "5c8a1d5b0190b214360dc032"
+  },
+  {
+    "_id": "5d7a514b5d2c12c7449be020",
+    "title": "Hello World",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+    "category": "Science & Technology",
+    "author": "John Doe",
+    "user": "5d7a514b5d2c12c7449be045"
+  },
+  {
+    "_id": "5d7a514b5d2c12c7449be020",
+    "title": "Trees and bees",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+    "category": "Nature & Wildlife",
+    "author": "Sara Kensing",
+    "user": "5c8a1d5b0190b214360dc040"
+  },
+  {
+    "_id": "5d7a514b5d2c12c7449be020",
+    "title": "Honey Pie",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra feugiat mauris id viverra. Duis luctus ex sed facilisis ultrices. Curabitur scelerisque bibendum ligula, quis condimentum libero fermentum in. Aenean erat erat, aliquam in purus a, rhoncus hendrerit tellus. Donec accumsan justo in felis consequat sollicitudin. Fusce luctus mattis nunc vitae maximus. Curabitur semper felis eu magna laoreet scelerisque",
+    "category": "Food",
+    "author": "Sara Kensing",
+    "user": "5c8a1d5b0190b214360dc040"
+  }
+]
