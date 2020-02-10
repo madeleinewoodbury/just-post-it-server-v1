@@ -12,8 +12,12 @@ connectDB();
 
 // Load routes
 const users = require('./routes/users');
+const posts = require('./routes/posts');
 
 const app = express();
+
+// Body parser
+app.use(express.json());
 
 // Dev logging middleware
 if (process.env.NODE_ENV === 'development') {
@@ -22,6 +26,7 @@ if (process.env.NODE_ENV === 'development') {
 
 // Mount routers
 app.use('/api/v1/users', users);
+app.use('/api/v1/posts', posts);
 
 const PORT = process.env.PORT;
 const server = app.listen(PORT, () => {
